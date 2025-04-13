@@ -19,7 +19,7 @@ Sync files from `source` to `target`:
 - [x] Compare files by:
     - Relative path
     - File size
-    - (Optional) File hash
+    - File hash
 - [x] Copy only what’s needed
 - [x] Show actions taken or planned
 
