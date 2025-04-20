@@ -15,7 +15,7 @@ Sync files from `source` to `target`:
 
 ### ✨ Features (MVP)
 
-- [x] Run with env variables `SOURCE_DIR (required / string)`, `SOURCE_DIR (required / string)`, `VERBOSE (optional / bool)`
+- [x] Run with env variables `SOURCE_DIR (required / string)`, `TARGET_DIR (required / string)`, `VERBOSE (optional / bool)`
 - [x] Recursively scan both directories
 - [x] Compare files by:
     - Relative path
